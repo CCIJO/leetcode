@@ -1,7 +1,7 @@
 /*
  * @Author: cc
  * @Date: 2020-11-02 19:03:06
- * @LastEditTime: 2020-11-02 19:10:51
+ * @LastEditTime: 2020-11-02 20:50:08
  * @LastEditors: cc
  * @FilePath: \leetcode\disjoint_set\684.cpp
  * @Solution: 
